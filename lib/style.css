@@ -7,6 +7,18 @@ header{
 
 }
 
+.headerContainer{
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    font-size: 40px;
+    padding-right: 60px;
+    
+}
+
+
+
 body{
     background-color: wheat;
 }
