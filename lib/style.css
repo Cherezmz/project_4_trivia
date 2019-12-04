@@ -66,14 +66,6 @@ border-radius: 20px;
     margin-right: 0px; 
     background-color: rgb(71, 207, 231);
 }
-#answer4{
-    max-height: 50px;
-    border: 3px solid black; 
-    margin-left: 0px;
-    margin-right: 0px; 
-    background-color: rgb(71, 207, 231);
-
-}
 
 #next{
     max-height: 50px;
