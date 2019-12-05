@@ -41,6 +41,7 @@ font-size: 30px;
 background-color: wheat;
 padding-top: 20px;
 
+
 }
 
 .answers{
@@ -94,4 +95,9 @@ padding-top: 20px;
 
 #score{
     font-size: 50px;
+}
+
+
+.pClass{
+    margin: 0;
 }
