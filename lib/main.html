@@ -18,15 +18,17 @@
 
     <div class="headerContainer">
         <div id="header">Trivia Game</div>
-        <div id="score">Score 0/10</div>
+        <div id="scoreText">Score:</div>
+        <div id="scoreNum"><span id=score>0</span>/10</div>
+
     </div>
     <main>
         <div id="question" class="question"></div>
         <div class="answers">
-            <button class="answers" id="answer1"></button>
-            <button class="answers" id="answer2"></button>
-            <button class="answers" id="answer3"></button>
-            <button class="answers" id="next">Next question</button>
+            <button class="answers" id="answer1" onclick="checkAnswer('answer1')"></button>
+            <button class="answers" id="answer2" onclick="checkAnswer('answer2')"></button>
+            <button class="answers" id="answer3" onclick="checkAnswer('answer3')"></button>
+            <button class="answers" id="next" onclick="changeQuestion()">Next question</button>
         </div>
 
 
