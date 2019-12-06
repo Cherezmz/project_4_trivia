@@ -4,9 +4,10 @@ java script trivia game
 # Used languages: 
 HTML, CSS, JS
 
-Pre-load your app with some questions and answers.
+# Target of the game
 
-Test the user's wits & knowledge with whatever-the-heck you know about (so you can actually win). Guess answers, have the computer tell you how right you are!
+There are some questions and answers. Test the user's wits & knowledge about copyright. 
+User may select answers, computer will tell if the answer is right/wrong and count the score!
 
 
 # Logic
