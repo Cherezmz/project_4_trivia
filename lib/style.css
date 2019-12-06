@@ -56,6 +56,18 @@ padding-top: 20px;
       padding-top: 10px;
 }
 
+.divsAnswers{
+    margin-top: 20px;
+    height: 350px;
+    width: 89%;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 20px;
+    font-size: 30px;
+    text-align: center;
+      padding-top: 10px; 
+}
+
 #answer1{
     max-height: 50px;
     margin-top: 0px;
@@ -91,7 +103,9 @@ padding-top: 20px;
     font-weight: bolder;
     font-size: 30px;
     padding-top: 10px;
-}
+    padding-bottom: 10px;
+    border-radius: 20px;
+ }
 
 #score{
     font-size: 50px;
