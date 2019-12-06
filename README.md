@@ -1,7 +1,8 @@
 # project_4_trivia
 java script trivia game 
 
-Used languages: HTML, CSS, JS
+# Used languages: 
+HTML, CSS, JS
 
 Pre-load your app with some questions and answers.
 
